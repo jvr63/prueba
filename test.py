@@ -1,2 +1,2 @@
-variable = "Hello world!"
-print(variable)
+nombre = input("¿Cómo se llama? ")
+print(f"Me alegro de conocerle, {nombre}")
